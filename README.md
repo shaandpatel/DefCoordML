@@ -91,9 +91,6 @@ We evaluated models using:
 | GradientBoosting   | GradientBoosting_n_estimators=200_max_depth=5_learning_rate=0.01  | GradientBoosting_n_estimators=200    | 0.7496   | 0.8001   | 0.8230  | 0.7933    | 0.8074 | 57.79          |
 
 
-View full results in [model_results.csv](/model_results.csv).
-
-
 
 ## Setup
 
