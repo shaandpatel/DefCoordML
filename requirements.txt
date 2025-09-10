@@ -1,0 +1,7 @@
+jupyter
+matplotlib==3.9.4
+scikit-learn==1.6.1
+nfl_data_py==0.3.3
+missingno==0.5.2
+seaborn==0.13.2
+statsmodels==0.14.5
