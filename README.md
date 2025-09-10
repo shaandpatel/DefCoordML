@@ -92,7 +92,7 @@ We evaluated models using:
 
 ## Project Structure
 
-`DefCoordML.ipynb`: Main project notebook
+`DefCoordML.ipynb`: Main project notebook  
 `requirements.txt`: Python dependencies
 
 ## Setup
