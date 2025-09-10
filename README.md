@@ -90,7 +90,10 @@ We evaluated models using:
 | GradientBoosting   | GradientBoosting_n_estimators=100_max_depth=3_learning_rate=0.05  | GradientBoosting_n_estimators=100    | 0.7488   | 0.7987   | 0.8209  | 0.7950    | 0.8029 | 14.86          |
 | GradientBoosting   | GradientBoosting_n_estimators=200_max_depth=5_learning_rate=0.01  | GradientBoosting_n_estimators=200    | 0.7496   | 0.8001   | 0.8230  | 0.7933    | 0.8074 | 57.79          |
 
+## Project Structure
 
+`DefCoordML.ipynb`: Main project notebook
+`requirements.txt`: Python dependencies
 
 ## Setup
 
@@ -120,7 +123,5 @@ pip install -r requirements.txt
 
 ### 4. Launch Jupyter Notebook
 ```bash
-jupyter notebook
+jupyter notebook DefCoordML.ipynb
 ```
-
-Then open the .ipynb file in your browser.
